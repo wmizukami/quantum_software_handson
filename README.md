@@ -43,3 +43,6 @@
    - 12_変分量子固有値法（VQE)を実行して分子の基底状態を計算してみる
 <br> [12_compute_groud_state_of_molecule_using_vqe.ipynb](./12_compute_groud_state_of_molecule_using_vqe.ipynb)
 <br> [[mybindで開く]](https://mybinder.org/v2/gh/Qulacs-Osaka/quantum_software_handson/HEAD?filepath=12_compute_groud_state_of_molecule_using_vqe.ipynb)
+ - 13_電子の量子ダイナミクスを量子回路を使って実行してみる
+ <br> [13_simulating_quantum_dynamics_of_electrons.ipynb](./13_simulating_quantum_dynamics_of_electrons.ipynb)
+ <br> [[mybindで開く]](https://mybinder.org/v2/gh/wmizukami/quantum_software_handson/HEAD?filepath=13_simulating_quantum_dynamics_of_electrons.ipynb)
